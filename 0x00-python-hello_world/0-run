@@ -1,2 +1,2 @@
-#!/usr/local/bin
-python main.py > $PYFILE
+#!bin/bash
+python3 $PYFILE
